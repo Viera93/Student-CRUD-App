@@ -1,5 +1,5 @@
 # Student-CRUD-App
-Full Stack CRUD Application
+Full Stack CRUD (Create, Read, Update, Delete) Application.
 
 *Back-End:
 SpringBoot
@@ -9,3 +9,5 @@ ReactJS
 
 *Database:
 H2
+
+##C-R-U-D MOCKUPS:
