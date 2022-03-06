@@ -2,10 +2,10 @@
 Full Stack CRUD (Create, Read, Update, Delete) Application.
 
 ## Back-End:
-SpringBoot
+SpringBoot, Spring Data JPA
 
 ## Front-End:
-ReactJS
+ReactJS, Bootstrap 4
 
 ## Database:
 H2
